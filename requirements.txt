@@ -1,0 +1,4 @@
+praw 
+flask
+telebot
+deep_translator
